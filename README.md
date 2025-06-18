@@ -70,8 +70,8 @@ LIMIT 10;
 📫 Contact
 📧 amradelark@gmail.com
 
-💼 LinkedIn
+💼 LinkedIn: www.linkedin.com/in/amr-adel-333107278
 
-💻 GitHub
+
 
 
