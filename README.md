@@ -3,14 +3,14 @@ This project involves cleaning, transforming, and analyzing a video game sales d
 
 ---
 
-## 📁 Dataset Overview
+##  Dataset Overview
 
 - Data contains sales information for video games across North America, Japan, and PAL regions.
 - Fields include: `title`, `genre`, `console`, `publisher`, `developer`, `release_date`, `critic_score`, `total_sales`, and more.
 
 ---
 
-## 🧹 Data Cleaning & Transformation
+##  Data Cleaning & Transformation
 
 - Removed duplicates using `ROW_NUMBER()` and CTEs.
 - Cleaned inconsistent publisher names (e.g., “Namco Bandai” → “Bandai Namco”).
@@ -19,20 +19,20 @@ This project involves cleaning, transforming, and analyzing a video game sales d
 
 ---
 
-## 🔍 Key Analyses Performed
+##  Key Analyses Performed
 
-- ✅ Top 10 Best-Selling Games
-- ✅ Highest-Grossing Publishers
-- ✅ Sales by Genre and Console
-- ✅ Regional Sales Comparison (NA, JP, PAL)
-- ✅ Most Consistent Hit-Makers (multi-hit publishers)
-- ✅ Year-by-Year Sales Trend per Genre
-- ✅ Average Sales per Game by Genre
-- ✅ Platform Market Share by Region
+-  Top 10 Best-Selling Games
+-  Highest-Grossing Publishers
+-  Sales by Genre and Console
+-  Regional Sales Comparison (NA, JP, PAL)
+-  Most Consistent Hit-Makers (multi-hit publishers)
+-  Year-by-Year Sales Trend per Genre
+-  Average Sales per Game by Genre
+-  Platform Market Share by Region
 
 ---
 
-## 🧠 Insights
+##  Insights
 
 - Shooter and Action genres dominate global sales.
 - PlayStation and Nintendo consoles have the highest lifetime sales.
@@ -42,7 +42,7 @@ This project involves cleaning, transforming, and analyzing a video game sales d
 
 ---
 
-## 🛠 Tools & Skills Used
+##  Tools & Skills Used
 
 - **SQL**: CTEs, `RANK()`, `ROW_NUMBER()`, `GROUP BY`, `JOIN`, subqueries
 - Data Cleaning & Formatting
@@ -50,7 +50,7 @@ This project involves cleaning, transforming, and analyzing a video game sales d
 
 ---
 
-## 📄 Sample Query
+##  Sample Query
 
 ```sql
 -- Top 10 Best-Selling Games
@@ -67,10 +67,10 @@ LIMIT 10;
 ```
 ---
 
-📫 Contact
-📧 amradelark@gmail.com
+ Contact
+ amradelark@gmail.com
 
-💼 LinkedIn: www.linkedin.com/in/amr-adel-333107278
+ LinkedIn: www.linkedin.com/in/amr-adel-333107278
 
 
 
