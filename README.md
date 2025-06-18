@@ -64,7 +64,7 @@ SELECT title, total_sales,
 FROM ranked_games
 LIMIT 10;
 
-
+```
 ---
 
 📫 Contact
