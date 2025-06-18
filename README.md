@@ -65,5 +65,13 @@ FROM ranked_games
 LIMIT 10;
 
 
+---
+
+📫 Contact
+📧 amradelark@gmail.com
+
+💼 LinkedIn
+
+💻 GitHub
 
 
